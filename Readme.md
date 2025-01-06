@@ -1,4 +1,12 @@
-## 元の文章を翻訳したもののため、意味が変わっている可能性があります。
+※元の文章を翻訳したもののため、意味が変わっている可能性があります。
+
+# 注意点
+MacOSの入ったデバイスを持っていないため、Releaseをすることができません。←MacBook買わないと...
+ChargeLimiterを日本語化したい場合はFilza File Managerなどを使用してファイルを置き換えてください。
+## 置き換えるファイル
+/ChargeLimiter/www/lang.json
+/ChargeLimiter/www/help_ja.json
+
 
 ## はじめに
 
