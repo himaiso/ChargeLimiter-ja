@@ -4,8 +4,8 @@
 MacOSの入ったデバイスを持っていないため、Releaseをすることができません。←MacBook買わないと...
 ChargeLimiterを日本語化したい場合はFilza File Managerなどを使用してファイルを置き換えてください。
 ## 置き換えるファイル
-/ChargeLimiter/www/lang.json
-/ChargeLimiter/www/help_ja.json
+\Applications\ChargeLimiter\www\lang.json
+\Applications\ChargeLimiter\www\help_ja.json
 
 
 ## はじめに
